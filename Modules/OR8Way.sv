@@ -1,4 +1,5 @@
 `include "OR.sv"
+
 module OR8Way(
   output OUT,
   input [7:0]X

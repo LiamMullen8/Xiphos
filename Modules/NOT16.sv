@@ -1,4 +1,5 @@
 `include "NOT.sv"
+
 module NOT16(
   output [15:0]OUT,
   input [15:0]X

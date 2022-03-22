@@ -2,7 +2,6 @@
 module AND(
   output OUT,
   input X, Y
-
 );
   
   wire c1;

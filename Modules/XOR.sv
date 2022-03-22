@@ -9,6 +9,7 @@ module XOR(
   wire c2;
   wire c3;
   wire c4;
+  wire c5;
   
   //OR: ~(~X ^ ~Y)
   nand(c1, X, X);
