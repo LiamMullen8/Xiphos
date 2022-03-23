@@ -22,7 +22,7 @@ module ADD16_tb;
   
    initial
       begin
-        $dumpfile("not.vcd");
+        $dumpfile("add16.vcd");
       $dumpvars;
     end
   

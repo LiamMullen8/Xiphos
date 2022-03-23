@@ -23,7 +23,7 @@ module MUX16_tb;
   
    initial
       begin
-        $dumpfile("not.vcd");
+        $dumpfile("mux16.vcd");
       $dumpvars;
     end
   

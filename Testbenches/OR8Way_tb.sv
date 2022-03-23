@@ -17,7 +17,7 @@ module OR8Way_tb;
   
    initial
       begin
-        $dumpfile("not.vcd");
+        $dumpfile("or8way.vcd");
       $dumpvars;
     end
   

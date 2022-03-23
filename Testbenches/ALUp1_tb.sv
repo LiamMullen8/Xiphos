@@ -45,7 +45,7 @@ module ALUp1_tb;
   
    initial
       begin
-        $dumpfile("not.vcd");
+        $dumpfile("ALU1.vcd");
       $dumpvars;
     end
   

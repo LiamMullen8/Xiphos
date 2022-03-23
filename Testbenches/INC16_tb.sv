@@ -21,7 +21,7 @@ module INC16_tb;
   
    initial
       begin
-        $dumpfile("not.vcd");
+        $dumpfile("inc16.vcd");
       $dumpvars;
     end
   

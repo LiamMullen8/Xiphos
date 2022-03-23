@@ -21,7 +21,7 @@ module DMUX4Way_tb;
   
    initial
       begin
-        $dumpfile("not.vcd");
+        $dumpfile("dmux4way.vcd");
       $dumpvars;
     end
   

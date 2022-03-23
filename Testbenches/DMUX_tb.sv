@@ -23,7 +23,7 @@ module DMUX_tb;
   
    initial
       begin
-        $dumpfile("not.vcd");
+        $dumpfile("dmux.vcd");
       $dumpvars;
     end
   

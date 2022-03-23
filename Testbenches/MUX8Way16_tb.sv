@@ -24,7 +24,7 @@ module MUX8Way16_tb;
   
    initial
       begin
-        $dumpfile("not.vcd");
+        $dumpfile("mux8way16.vcd");
       $dumpvars;
     end
   

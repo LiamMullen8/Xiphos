@@ -17,7 +17,7 @@ module NOT16_tb;
   
    initial
       begin
-        $dumpfile("not.vcd");
+        $dumpfile("not16.vcd");
       $dumpvars;
     end
   

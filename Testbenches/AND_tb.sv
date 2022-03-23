@@ -21,7 +21,7 @@ module AND_tb;
   
    initial
       begin
-        $dumpfile("not.vcd");
+        $dumpfile("and.vcd");
       $dumpvars;
     end
   

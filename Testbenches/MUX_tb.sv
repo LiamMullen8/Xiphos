@@ -23,7 +23,7 @@ module MUX_tb;
   
    initial
       begin
-        $dumpfile("not.vcd");
+        $dumpfile("mux.vcd");
       $dumpvars;
     end
   

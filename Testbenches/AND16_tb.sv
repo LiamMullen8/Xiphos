@@ -19,7 +19,7 @@ module AND16_tb;
   
    initial
       begin
-        $dumpfile("not.vcd");
+        $dumpfile("and16.vcd");
       $dumpvars;
     end
   

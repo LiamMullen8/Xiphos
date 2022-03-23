@@ -25,7 +25,7 @@ module DMUX8Way_tb;
   
    initial
       begin
-        $dumpfile("not.vcd");
+        $dumpfile("dmux8way.vcd");
       $dumpvars;
     end
   

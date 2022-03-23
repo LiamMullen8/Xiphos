@@ -21,7 +21,7 @@ module XOR_tb;
   
    initial
       begin
-        $dumpfile("not.vcd");
+        $dumpfile("xor.vcd");
       $dumpvars;
     end
   

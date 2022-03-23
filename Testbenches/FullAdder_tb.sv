@@ -27,7 +27,7 @@ module FullAdder_tb;
   
    initial
       begin
-        $dumpfile("not.vcd");
+        $dumpfile("fulladder.vcd");
       $dumpvars;
     end
   

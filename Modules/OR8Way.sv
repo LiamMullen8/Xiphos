@@ -1,4 +1,3 @@
-`include "OR.sv"
 
 module OR8Way(
   output OUT,

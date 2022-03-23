@@ -21,7 +21,7 @@ module OR_tb;
   
    initial
       begin
-        $dumpfile("not.vcd");
+        $dumpfile("or.vcd");
       $dumpvars;
     end
   

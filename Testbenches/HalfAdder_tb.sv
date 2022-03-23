@@ -22,7 +22,7 @@ module HalfAdder_tb;
   
    initial
       begin
-        $dumpfile("not.vcd");
+        $dumpfile("halfadder.vcd");
       $dumpvars;
     end
   
